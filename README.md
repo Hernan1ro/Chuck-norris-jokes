@@ -1,18 +1,15 @@
-# Webpack Starter
+# Chuck Norris jokes
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es el proyecto para poner a proeba lo aprendido acerca de promesas y peticones HTTP
 
 ### Notas:
 
-recuerda reconstruir los modulos de Node
+Puedes descubrir un chiste nuevo pulsando el botón 'nuevo chiste'
 
 ```
-npm install
+Enjoy
 
 ```
 
-y para construir el build, recuerda:
 
-```
-npm run build
-```
+
