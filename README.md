@@ -1,6 +1,6 @@
 # Chuck Norris jokes
 
-Este es el proyecto para poner a proeba lo aprendido acerca de promesas y peticones HTTP
+Este es el proyecto para poner a prueba lo aprendido acerca de promesas y peticones HTTP
 
 ### Notas:
 
