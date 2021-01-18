@@ -1,4 +1,8 @@
-import * as CRUD from "./js/crud-provider.js";
+import { init } from "./js/archivos-pages.js";
+
+init();
+
+// import * as CRUD from "./js/crud-provider.js";
 
 // CRUD.getUsuario(1).then(console.log);
 // CRUD.crearUsuario({
@@ -11,7 +15,7 @@ import * as CRUD from "./js/crud-provider.js";
 //   job: "Developer",
 // }).then(console.log);
 
-CRUD.borrarUsuario(1).then(console.log);
+// CRUD.borrarUsuario(1).then(console.log);
 // import { obtenerChiste } from "./js/http-provider";
 // obtenerChiste().then(console.log);
 
